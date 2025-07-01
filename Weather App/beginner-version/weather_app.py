@@ -47,7 +47,7 @@ def main():
     print("=== Simple Weather App ===")
     print("Get current weather for any city or ZIP code\n")
     
-    api_key = "61eca07bb4330646e7d7ebbe152d4eec"  
+    api_key = "ANY ACTIVE_API_KEY"  
     
     while True:
         location = input("Enter city name or ZIP code (or 'quit' to exit): ").strip()
